@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [BIM 操作手册](README.md)
 
