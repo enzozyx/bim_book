@@ -9,4 +9,5 @@
 ## guide
 
 * [BIM 3.0.0 操作指导手册](guide/bim-3.0.0-cao-zuo-zhi-dao-shou-ce.md)
+* [测试](guide/test.md)
 
